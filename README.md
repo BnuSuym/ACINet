@@ -6,5 +6,5 @@ Baidu: https://pan.baidu.com/s/19z9qwzgd0PPsOiGxkmeuDg 提取码: 45f1
 Google: 
 ## Requirements<br>
 Python 3.9<br>
-Pytorch 1.12
+Pytorch 1.12<br>
 If you have some questions, please contact: suyiming812@163.com
