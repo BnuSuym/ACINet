@@ -8,7 +8,7 @@ python 3.9<br>
 pytorch 1.11.0<br>
 torchvision
 ## Pretraining Parameters<br>
-Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo
+P2T_small.pth: Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo
 #### Pre-Trained :<br>
 Baidu: https://pan.baidu.com/s/1nc4leii_ZWGE_M90wtImfQ 提取码：yufh 
 ## Result Saliency Maps<br>
