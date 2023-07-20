@@ -1,5 +1,7 @@
-# Asymmetric Cross-modality Interaction Network for RGB-D Salient Object Detection
-## Description
+# ACINet
+## Description<br>
+This is the source code for"Asymmetric Cross-modality Interaction Network for RGB-D Salient Object Detection".<br>
+If you have some questions, please contact: suyiming812@163.com
 ## Architecture
 ![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/Architecture.jpg)
 ## Pretraining Parameters<br>
