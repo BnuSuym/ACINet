@@ -7,6 +7,9 @@ If you have some questions, please contact: suyiming812@163.com
 ## Pretraining Parameters<br>
 Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo
 ## Requirements<br>
+python 3.9<br>
+pytorch 1.11.0<br>
+torchvision
 ## RGBD Result Saliency Maps<br>
 Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj<br>
 Google: https://drive.google.com/drive/folders/1PHaYv1Tnri8IFQgIkvfvzxKw8LxM7OU7?usp=sharing
