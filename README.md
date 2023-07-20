@@ -10,7 +10,7 @@ pytorch 1.11.0<br>
 torchvision
 ## Pretraining Parameters<br>
 Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo
-#### Our pre-Trained model :<br>
+#### pre-Trained :<br>
 Baidu: https://pan.baidu.com/s/1nc4leii_ZWGE_M90wtImfQ 提取码：yufh 
 ## RGBD Result Saliency Maps<br>
 Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj<br>
