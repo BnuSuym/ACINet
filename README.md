@@ -8,5 +8,5 @@ Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj<br>
 Google: https://drive.google.com/drive/folders/1PHaYv1Tnri8IFQgIkvfvzxKw8LxM7OU7?usp=sharing
 ## Results<br>
 ### RGB-D results:<br>
-![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/Architecture.jpg)
+![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/RGBD_results.png)
 If you have some questions, please contact: suyiming812@163.com
