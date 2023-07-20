@@ -4,7 +4,7 @@
 ## Pretraining Parameters<br>
 Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo
 ## RGBD Result Saliency Maps<br>
-Baidu: https://pan.baidu.com/s/19z9qwzgd0PPsOiGxkmeuDg 提取码: 45f1
+Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj
 Google: 
 ## Requirements<br>
 Python 3.9<br>
