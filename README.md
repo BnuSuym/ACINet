@@ -14,4 +14,4 @@ Google: https://drive.google.com/drive/folders/1PHaYv1Tnri8IFQgIkvfvzxKw8LxM7OU7
 ![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/RGBD_results.png)
 ### RGB-T results:<br>
 ![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/RGBT_results.png)
-If you have some questions, please contact: suyiming812@163.com
+
