@@ -7,9 +7,6 @@ This is the source code for"Asymmetric Cross-modality Interaction Network for RG
 python 3.9<br>
 pytorch 1.11.0<br>
 torchvision
-## Pretraining Parameters<br>
-P2T_small: Baidu: https://pan.baidu.com/s/1n3LdYKfmvDryk0JsRC1TXg 提取码: njpo<br>
-We pre-trained model: Baidu: https://pan.baidu.com/s/1nc4leii_ZWGE_M90wtImfQ 提取码：yufh 
 ## RGB-D/T Saliency Maps<br>
 Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj<br>
 Google: https://drive.google.com/drive/folders/1PHaYv1Tnri8IFQgIkvfvzxKw8LxM7OU7?usp=sharing
