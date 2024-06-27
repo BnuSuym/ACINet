@@ -5,7 +5,7 @@
 python 3.10<br>
 pytorch 1.11.0<br>
 torchvision
-## RGB-D/T Saliency Maps<br>
+## RGB-D Saliency Maps<br>
 Baidu: https://pan.baidu.com/s/1fxYW8Iv0SlRcWEMOuUy6sg 提取码: tsoj<br>
 Google: https://drive.google.com/drive/folders/1PHaYv1Tnri8IFQgIkvfvzxKw8LxM7OU7?usp=sharing
 ## Results<br>
