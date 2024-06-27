@@ -2,7 +2,7 @@
 ## Architecture
 ![image](https://github.com/Yiming-Su/ACINet/blob/main/Figs/overall.png)
 ## Requirements<br>
-python 3.9<br>
+python 3.10<br>
 pytorch 1.11.0<br>
 torchvision
 ## RGB-D/T Saliency Maps<br>
