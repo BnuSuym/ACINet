@@ -6,7 +6,7 @@ python 3.10<br>
 pytorch 1.11.0<br>
 torchvision
 ## RGB-D Saliency Maps<br>
-Baidu:  https://pan.baidu.com/s/1CX4YqW8v74JtlruD_tIM_Q 提取码: suym
+Baidu:  https://pan.baidu.com/s/1CX4YqW8v74JtlruD_tIM_Q with the fetch code: suym
 ## RGB-T Saliency Maps<br>
 Baidu:  https://pan.baidu.com/s/1t5UWpRUi5u01OGo6zdaF5w 提取码: suym
 ## Results<br>
