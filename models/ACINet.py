@@ -12,7 +12,7 @@ from Extra_stage import FifthBlock
 from CAU import CAU
 from PCU import PCU
 from P2T import p2t_small
-
+ 
 
 def conv1x1(in_planes, out_planes, stride=1, has_bias=False):
     "3x3 convolution with padding"
