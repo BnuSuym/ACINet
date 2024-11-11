@@ -24,4 +24,4 @@ parser.add_argument('--test_rgb_root', type=str, default='./datasets/test/NLPR/R
 parser.add_argument('--test_depth_root', type=str, default='./datasets/test/NLPR/depth/', help='the test gt images root')
 parser.add_argument('--test_gt_root', type=str, default='./datasets/test/NLPR/GT/', help='the test gt images root')
 parser.add_argument('--save_path', type=str, default='./cpts/ACINet/', help='the path to save models and logs')
-opt = parser.parse_args()
+opt = parser.parse_args() 
