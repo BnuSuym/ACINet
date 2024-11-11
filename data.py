@@ -11,7 +11,7 @@ import random
 import numpy as np
 from PIL import ImageEnhance
 
-
+ 
 # several data augumentation strategies
 def cv_random_flip(img, label, depth):
     flip_flag = random.randint(0, 1)
