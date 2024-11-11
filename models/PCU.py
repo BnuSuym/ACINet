@@ -6,7 +6,7 @@
 import torch
 from torch import nn
 import torch.nn.functional as F
-
+ 
 
 def drop_path(x, drop_prob: float = 0., training: bool = False):
     """Drop paths (Stochastic Depth) per sample (when applied in main path of residual blocks).
