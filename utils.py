@@ -2,7 +2,7 @@
 """
 @Author: sym
 @File: utils.py
-@Time: 2024/10/15
+@Time: 2024/9/15
 """
 def clip_gradient(optimizer, grad_clip):
     for group in optimizer.param_groups:
